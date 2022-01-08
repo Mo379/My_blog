@@ -33,6 +33,7 @@ print("Welcome to Academic!")
 
     Welcome to Academic!
 
+Some edit
 
 ## Install Python and JupyterLab
 
