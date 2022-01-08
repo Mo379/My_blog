@@ -8,22 +8,22 @@
 theme: custom
 day_night: true
 font: ''
-font_size: L
+font_size: m
 
 # SEO
 
-site_type: Person
+site_type: Blog
 local_business_type: ''
 org_name: ''
-description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-twitter: 'wowchemy'
+description: 'All about science.'
+twitter: ''
 
 # Site header
 
 main_menu:
   enable: true
   align: r
-  show_logo: false
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: true
@@ -39,8 +39,9 @@ time_format: '3:04 PM'
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+  - python
+math: true
+diagram: true
 privacy_pack: false
 require_isotope: false  # Enable if you use Portfolio widget or Publication pages
 edit_page:
@@ -51,7 +52,7 @@ edit_page:
     post: false
 show_related:
   post: true
-email: test@example.org
+email: pro.mustafa.omar@gmail.com
 sharing_image: ''
 reading_time: true
 section_pager: true
@@ -61,7 +62,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: ''
 plugins_js: []
 avatar:
   gravatar: false
@@ -95,4 +96,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
