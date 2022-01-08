@@ -19,7 +19,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Physics graduate and a Machine learning MSc student
 
-#interests:
+interests:
 - Physics
 - Artificial Intelligence
 - Quantum Machine Learning
