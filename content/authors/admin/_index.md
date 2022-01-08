@@ -10,7 +10,7 @@ role: Admin
 
 # Status emoji
 status: Probably asleep
-  icon: ✍🏾
+- icon: ✍🏾
 
 # Organizations/Affiliations
 organizations:
