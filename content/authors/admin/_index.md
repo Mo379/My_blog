@@ -9,9 +9,8 @@ superuser: true
 role: Admin
 
 # Status emoji
-status: 
-	icon: ✍🏾
-
+status:
+  icon: ☕️
 # Organizations/Affiliations
 organizations:
 - name: 
