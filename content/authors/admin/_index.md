@@ -9,8 +9,8 @@ superuser: true
 role: Admin
 
 # Status emoji
-status: "Probably asleep"
-icon: ✍🏾
+status: 
+	icon: ✍🏾
 
 # Organizations/Affiliations
 organizations:
