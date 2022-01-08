@@ -29,13 +29,13 @@ interests:
 
 # Education to show in About widget
 education:
-	courses:
-	- course: MSc in Machine learning in science/AI
-	  institution: University of Nottingham
-	  year: 2021-Current
-	- course: BSc in Physics with astrophysics
-	  institution: Univeristy of Kent
-	  year: 2017-2020
+   courses:
+   - course: MSc in Machine learning in science/AI
+     institution: University of Nottingham
+     year: 2021-Current
+   - course: BSc in Physics with astrophysics
+     institution: Univeristy of Kent
+     year: 2017-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
